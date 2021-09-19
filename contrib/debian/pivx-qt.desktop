@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Blockade
+Comment= ADEC P2P Cryptocurrency
+Comment[fr]= ADEC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= ADEC, eşten eşe kriptografik sanal para birimi
+Exec=blockade-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=Blockade-qt
